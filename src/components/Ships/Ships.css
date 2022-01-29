@@ -1,0 +1,21 @@
+.ship_box{
+    margin-bottom: 30px;
+}
+
+.ship_content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ship_content h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #3da5af;
+    font-weight: 400;
+}
+
+.ship_content h2 span{
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-left: 10px;
+}
